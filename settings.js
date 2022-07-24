@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'MFX' // Ganti Jadi Namamu
-  global.owner = ['6288983514031','6285922480867','6288983514031'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['628981614707','6285922480867','628981614707'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281575886399' // Owner Utama Istilahnya
   global.botname = 'CHIKA-MD' // Ganti Jadi Nama Botmu
   global.packname = 'Chika-MFX' // Sticker Weem
